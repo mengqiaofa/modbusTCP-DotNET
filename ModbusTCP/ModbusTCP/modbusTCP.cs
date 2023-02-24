@@ -74,7 +74,7 @@ namespace ModbusTCP
         /// <summary>Constant for exception send failt.</summary>
         private const byte excSendFailt = 100;
 
-        // ------------------------------------------------------------------------
+        // -  -----------------------------------------------------------------------
         // Private declarations
         private static ushort _timeout = 500;
         private static ushort _refresh = 10;
